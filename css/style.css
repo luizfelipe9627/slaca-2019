@@ -60,7 +60,6 @@ button {
 */
 
 .area-menu {
-    display: block;
     width: 270px;
     border-right: 1px solid #E7E7E7;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
@@ -753,6 +752,10 @@ footer img {
     cursor: default;
 }
 
+/*
+    ÁREA RESPONSIVIDADE MOBILE ↴
+*/ 
+
 @media (min-width: 320px) and (max-width: 425px) {
     /* 
         ÁREA LOGO ↴
@@ -806,6 +809,16 @@ footer img {
         text-align: center;
     }
 
+    .conteudo-detalhes {
+        height: auto;
+        width: 78vw;
+    }
+
+    .texto-detalhes {
+        text-align: center;
+        max-width: none;
+    }
+
     /*
         ÁREA DISCUSSÃO ↴
     */
@@ -839,6 +852,10 @@ footer img {
         width: 100vw;
     }
 }
+
+/*
+    ÁREA RESPONSIVIDADE TABLET ↴
+*/ 
 
 @media (min-width: 426px) and (max-width: 768px) {
     
@@ -890,7 +907,7 @@ footer img {
     }
 
     .conteudo-detalhes {
-        width: 90vw;
+        width: 88vw;
         height: auto;
     }
 
