@@ -1,15 +1,15 @@
 # Slaca 2019
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
-<img src="https://github.com/luizfelipe9627/rocketcoffee/blob/master/assets/videos/rocketcoffee.gif" alt="Site">
+<img src="https://github.com/luizfelipe9627/slaca-2019/blob/master/assets/videos/slaca-2019.gif" alt="Site">
 
 ## 📄 Descrição
-A slaca 2019 foi um observatório de desenvolvimento da área de Alimentos, com impacto na indústria de Alimentos, com a importância social e econômica da área de Alimentos.
+A slaca é um observatório de desenvolvimento da área de alimentos, com impacto na indústria de alimentos, com a importância social e econômica da área de alimentos.
 
 ### <a href="https://luizfelipe9627.github.io/slaca-2019">Acesse o site</a>
 
 ## 📑 Observação
-Exercicio Front-end dado pela empresa Chuva, eu utilizei HTML, CSS e Javascript puros para recriar a página do zero
+Exercicio Front-end dado pela empresa Chuva, eu utilizei HTML, CSS e Javascript puros para recriar a página do zero.
 
 ## 🔍 Layout
 Este layout foi criado pela empresa Chuva.
